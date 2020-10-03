@@ -1,14 +1,14 @@
-# progressbar
+# Progressbar
 
 Progress bar module for Deno.
 
 ## ❗ Issues
 
-If you think any of the `progressbar` can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+If you think any of the `Progressbar` can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
 
 ## 💪 Contribution
 
-We'd love to have your helping hand on contributions to `progressbar` by forking and sending a pull request!
+We'd love to have your helping hand on contributions to `Progressbar` by forking and sending a pull request!
 
 Your contributions are heartily ♡ welcome, recognized and appreciated. (✿◠‿◠)
 
